@@ -1,3 +1,2 @@
 # TestGithubFunction
-# hi
 # thanks
